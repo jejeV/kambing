@@ -1,2 +1,2 @@
-# kambing
-coba dlu
+# JavaScript
+ARRAY
